@@ -2,7 +2,11 @@
 ---
 🐍Python :✔️
 
-🌐HTML/CSS :❌
+🌐HTML/CSS :
+
+🌐JavaScript :❌ 
+
+🌐PHP :❌ 
 
 💻JAVA :❌ 
 
