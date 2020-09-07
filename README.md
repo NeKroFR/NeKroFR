@@ -1,6 +1,6 @@
 # A simple student...  
 ---
-### I WILL MAKE A WEBSITE 😋
+### I WILL MAKE MY WEBSITE 😋
 ---
 🐍Python :✔️
 
