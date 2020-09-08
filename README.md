@@ -4,8 +4,7 @@
 ---
 🐍Python :✔️
 
-🌐HTML/CSS :
-      learning 
+🌐HTML/CSS :📈
 
 🌐JavaScript :❌ 
 
