@@ -4,7 +4,7 @@
 ---
 🐍Python :✔️
 
-🌐HTML :✔️
+🌐HTML✔️
 /CSS :📈
 
 🌐JavaScript :❌ 
