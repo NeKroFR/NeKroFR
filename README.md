@@ -1,7 +1,7 @@
 # A simple student...  
 ---
 ### I MAKE MY WEBSITE 😋
-NeKroFR.github.io
+nekrofr.github.io
 ---
 🐍Python :✔️
 
