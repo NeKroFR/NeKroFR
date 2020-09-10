@@ -1,7 +1,6 @@
 # A simple student...  
 ---
 ### I MAKE MY WEBSITE 😋
-nekrofr.github.io
 ---
 🐍Python :✔️
 
