@@ -11,7 +11,7 @@
 
 🌐PHP :❌ 
 
-🌐MySQL :❌
+🌐SQL :❌
 
 💻JAVA :❌ 
 
