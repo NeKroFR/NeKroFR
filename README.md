@@ -7,9 +7,9 @@
 🌐HTML✔️
 /CSS :📈
 
-🌐JavaScript :❌ 
-
 💻JAVA :❌ 
+
+🌐JavaScript :❌ 
 
 🌐PHP :❌ 
 
