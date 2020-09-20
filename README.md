@@ -9,10 +9,10 @@
 
 🌐JavaScript :❌ 
 
+💻JAVA :❌ 
+
 🌐PHP :❌ 
 
 🌐SQL :❌
-
-💻JAVA :❌ 
 
 😎C++ :❌
