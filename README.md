@@ -1,6 +1,6 @@
 # A simple student...  
 ---
-### I MAKE MY WEBSITE 😋
+### I LEARN NEW SKILLS 😋
 ---
 🐍Python :✔️
 
