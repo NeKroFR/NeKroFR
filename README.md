@@ -8,7 +8,7 @@
 
 💻JAVA :❌ 
 
-🌐JavaScript :❌ 
+🌐JavaScript :📈
 
 🌐SQL :❌
 
