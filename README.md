@@ -6,12 +6,12 @@
 
 🌐HTML/CSS :✔️
 
-💻JAVA :❌ 
-
 🌐JavaScript :📈
 
 🌐SQL :❌
 
 👨‍💻BASH : ❌
+
+💻JAVA :❌ 
 
 😎C++ :❌
