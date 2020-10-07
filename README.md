@@ -12,7 +12,6 @@ A simple student...
 ---
 
 
----
 ### I LEARN NEW SKILLS 😋
 ---
 🐍Python :✔️
