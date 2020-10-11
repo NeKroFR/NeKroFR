@@ -24,7 +24,7 @@ A simple student...
 
 👨‍💻BASH : ❌
 
-💻JAVA :❌ 
+💻JAVA :📈 
 
 😎C++ :❌
 
