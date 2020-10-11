@@ -14,14 +14,15 @@ A simple student...
 
 ### I LEARN NEW SKILLS 😋
 ---
-🐍Python :✔️          👨‍💻BASH : ❌
+🐍Python :✔️          
 
-🌐HTML/CSS :✔️        💻JAVA :❌ 
+🌐HTML/CSS :✔️         
 
-🌐JavaScript :📈      😎C++ :❌
+🌐JavaScript :📈      
 
-🌐SQL :❌             🎮C# :❌
+🌐SQL :❌             
 
+👨‍💻BASH : ❌
 
 💻JAVA :❌ 
 
