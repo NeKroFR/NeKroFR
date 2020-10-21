@@ -18,8 +18,6 @@ A simple student...
 
 🌐HTML/CSS :✔️         
 
-🌐JavaScript :📈      
-
 🌐SQL :❌             
 
 👨‍💻BASH : ❌
