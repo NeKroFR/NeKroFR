@@ -15,9 +15,9 @@ A simple student...
 ### I LEARN NEW SKILLS 😋
 ---
 <p align="center">
-<a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img src="https://www.blog-nouvelles-technologies.fr/wp-content/uploads/2016/04/html5-logo-1-512x500.png" alt="HTML"width="40" height="40"/>
-<a href="https://developer.mozilla.org/fr/docs/Web/CSS/Reference" target="_blank"><img src="https://logodix.com/logo/1111675.png" alt="CSS"width="40" height="40"/>
+<a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+<a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img src="https://www.blog-nouvelles-technologies.fr/wp-content/uploads/2016/04/html5-logo-1-512x500.png" alt="HTML"width="50" height="50"/>
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS/Reference" target="_blank"><img src="https://logodix.com/logo/1111675.png" alt="CSS"width="50" height="50"/>
 </p>      
 
      
