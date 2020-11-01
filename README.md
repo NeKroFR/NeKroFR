@@ -18,14 +18,10 @@ A simple student...
 
 🌐HTML/CSS :✔️         
 
-🌐SQL :❌             
-
-👨‍💻BASH : ❌
-
 💻JAVA :📈 
 
 😎C++ :❌
 
 🎮C# :📈 
 
-💻LUA :❌ 
+💻C :❌ 
