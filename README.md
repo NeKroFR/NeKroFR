@@ -22,6 +22,6 @@ A simple student...
 
      
 <p align="center">
-  <a>💻JAVA :📈 </a>
-  <a>🎮C# :📈 </a>
+  <a href="https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html">💻JAVA :📈 </a>
+  <a href="https://docs.microsoft.com/fr-fr/dotnet/csharp/">🎮C# :📈 </a>
 </p>
