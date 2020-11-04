@@ -23,4 +23,6 @@ A simple student...
      
 <p align="center">
   <a href="https://docs.microsoft.com/dotnet/csharp/">🎮C# :📈 </a>
+  <a href="https://devdocs.io/c/">💻C :📈 </a>
+  <a href="https://devdocs.io/cpp/">💻C++ : ❌</a>
 </p>
