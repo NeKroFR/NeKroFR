@@ -24,6 +24,6 @@ A simple student...
      
 <p align="center">
   <a href="https://devdocs.io/cpp/">💻C++ : ❌</a>
-    <a href="https://jsdoc.app/">🌐JS:❌ </a>
+    <a href="https://jsdoc.app/">🌐JS:📈 </a>
 
 </p>
