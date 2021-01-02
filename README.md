@@ -15,5 +15,5 @@ A simple student...
 ### I LEARN NEW SKILLS 😋
 ---
 <p align="center">
-<a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+<a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="100" height="100"/>
 </p>      
