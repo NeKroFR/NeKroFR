@@ -17,10 +17,3 @@ A simple student...
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 </p>      
-
-     
-<p align="center">
-  <a href="https://devdocs.io/cpp/">💻C++ : ❌</a>
-    <a href="https://jsdoc.app/">🌐JS:📈 </a>
-
-</p>
