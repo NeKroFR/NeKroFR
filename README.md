@@ -9,10 +9,7 @@ A simple student...
   <img src="https://github-readme-stats.vercel.app/api?username=NeKroFR&show_icons=true" alt="0v3rl0w" height="150" />
 </p>
 
----
 
-
-### I LEARN NEW SKILLS 😋
 ---
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/NeKroFR/README-files/main/python.png?token=AQYPCJ332NGZ63U4LAYI4C276NHMS" alt="python" width="100" height="100"/>
