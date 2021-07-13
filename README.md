@@ -14,4 +14,5 @@ A simple student...
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/NeKroFR/README-files/main/python.png?token=AQYPCJ332NGZ63U4LAYI4C276NHMS" alt="python" width="100" height="100"/>
   <a href="https://devdocs.io/bash/" target="_blank"> <img src="https://github.com/NeKroFR/README-files/blob/main/bash.png" alt="shell script" width="100" height="100"/>
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/NeKroFR/README-files/blob/main/C.png" alt="python" width="100" height="100"/>
 </p>      
