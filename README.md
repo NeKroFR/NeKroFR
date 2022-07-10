@@ -4,9 +4,9 @@ A simple student...
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeKroFR&layout=compact" alt="0v3rl0w" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NeKroFR&show_icons=true&theme=react&include_all_commits=true&locale=fr" alt="0v3rl0w" height="150" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=NeKroFR&show_icons=true" alt="0v3rl0w" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NeKroFR&layout=compact&langs_count=8&theme=react&locale=fr" alt="0v3rl0w" height="150" />
 </p>
 
 
