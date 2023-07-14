@@ -12,5 +12,5 @@ A simple student...
 
 ---
 <p align="center">
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/NeKroFR/README-files/main/python.png?token=AQYPCJ332NGZ63U4LAYI4C276NHMS" alt="python" width="100" height="100"/>
+<a href="https://www.python.org" target="_blank"> <img src="https://i.imgur.com/IGoauVQ.png" alt="python" width="100" height="100"/>
 </p>      
