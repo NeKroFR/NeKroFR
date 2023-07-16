@@ -11,7 +11,7 @@
 ## < \ > Main Language 🎯:
 <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" alt="Python"/></a>
 
-## My projects 💻:
+## Main projects 💻:
 - Python code obfuscator: [MaskPy](https://github.com/NeKroFR/MaskPy)
 <!--- should have 4 projects to be good -->
 
