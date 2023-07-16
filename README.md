@@ -17,10 +17,12 @@
 
 ---
 
-## Github stats 📊
+## Statistics 📊
 
+<h3 align="left"><img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="40"> Github Languages:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeKroFR&langs_count=4&theme=react&hide_border=false&count_private=true&show_icons=true&include_all_commits=true">
 
+<h3 align="center"><img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="40"> Github Stats:</h3>
 <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NeKroFR&show_icons=true&theme=react&include_all_commits=true&locale=fr">
 
 
