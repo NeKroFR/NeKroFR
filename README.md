@@ -1,6 +1,6 @@
 <h1 align="center">A simple student...  </h1>
 
-<img align='right' style="border-radius: 20%;" src="https://avatars.githubusercontent.com/u/70316327?v=4" width="250">  <!--- border radius don't work -->
+<img align='right' style="border-radius: 20%;" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/70316327??v=4&h=400&w=400&fit=cover&mask=circle&maxage=7d">  <!--- border radius don't work -->
 <p align="center">
   <b><a href="https://www.epita.fr/">EPITA</a> student and <a href="https://tryhackme.com/p/nk0">CTF</a> enjoyer.</b>
 </p>
@@ -13,7 +13,7 @@
 
 ## Main projects 💻:
 - Python code obfuscator: [MaskPy](https://github.com/NeKroFR/MaskPy)
-<!--- should have 4 projects to be good -->
+<!--- should have 3 projects to be good -->
 
 ---
 
@@ -27,5 +27,4 @@
 
 
 <!--- todo -->
-<!--- border radius don't work -->
 <!--- web icon color change based by the theme if it's light or dark -->
