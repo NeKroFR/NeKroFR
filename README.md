@@ -8,7 +8,7 @@
 <!--- web icon color change based by the theme if it's light or dark -->
 <p align="center"><a href="https://nekrofr.github.io/"><img src="https://img.shields.io/badge/Website-grey?style=for-the-badge" alt="website" /></a></p>
 
-## < \ > Main Language 🎯:
+## < \ > Main Languages 🎯:
 <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" alt="Python"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-Tailwind%20CSS-6B7280?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS"/></a>
 
