@@ -14,7 +14,7 @@
 
 ## Main projects 💻:
 - Python code obfuscator: [MaskPy](https://github.com/NeKroFR/MaskPy)
-
+- Phone number osint tool: [PhoneAnalyzer](https://github.com/NeKroFR/PhoneAnalyzer)
 ---
 
 <h2 align="center">Statistics 📊</h2>
