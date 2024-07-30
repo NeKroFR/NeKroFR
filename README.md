@@ -13,16 +13,19 @@
 
 ## Main projects 💻:
 - Python code obfuscator: [MaskPy](https://github.com/NeKroFR/MaskPy)
----
 
-<h2 align="center">Statistics 📊</h2>
 
-<h3 align="left"><img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="40"> Github Languages:</h3>
+## Statistics 📊
+<details>
+<summary>Expand</summary>
+<br>
+<div align="center">
+  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeKroFR&langs_count=4&theme=react&hide_border=false&count_private=true&show_icons=true&include_all_commits=true">
-
-<h3 align="center"><img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="40"> Github Stats:</h3>
 <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NeKroFR&show_icons=true&theme=react&include_all_commits=true&locale=fr">
 
+</div>
+</details>
 
 <!--- todo -->
 <!--- web icon color change based by the theme if it's light or dark -->
