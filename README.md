@@ -10,7 +10,7 @@
 
 ## < \ > Main Languages 🎯:
 <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" alt="Python"/></a>
-<a href="https://www.gnu.org/software/gnu-c-manual/"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" alt="C"/></a>
+<a href="https://www.gnu.org/software/gnu-c-manual/"><img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=C&logoColor=white" alt=""/></a>
 
 ## Main projects 💻:
 - Python code obfuscator: [MaskPy](https://github.com/NeKroFR/MaskPy)
