@@ -13,6 +13,7 @@
 <a href="https://www.gnu.org/software/gnu-c-manual/"><img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=C&logoColor=white" alt=""/></a>
 
 ## Main projects 💻:
+- Golang Hash Collider: [HashQuake](https://github.com/NeKroFR/HashQuake)
 - Python code obfuscator: [MaskPy](https://github.com/NeKroFR/MaskPy)
 
 
