@@ -1,4 +1,4 @@
-<h1 align="center">A simple student...  </h1>
+<h1 align="center">Hi everyone 👋</h1>
 
 <img align='right' style="border-radius: 20%;" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/70316327?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d%22">
 <p align="center">
