@@ -1,12 +1,17 @@
 <h1 align="center">Hi everyone 👋</h1>
 
+<!---
 <img align='right' style="border-radius: 20%;" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/70316327?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d%22">
+-->
 <p align="center">
-  <b><a href="https://github.com/NeKroFR/Writeups">CTF</a> enjoyer in <a href="https://ctftime.org/team/757/">LSE</a> Team</b>
+  <b>I am a <a href="https://github.com/NeKroFR/Writeups">CTF</a> enjoyer, member of the <a href="https://ctftime.org/team/757/">LSE</a> Team</b>
 </p>
+<!---
 <h3 align="center">you can find out more about me here:  </h3>
 <!--- web icon color change based by the theme if it's light or dark -->
+<!---
 <p align="center"><a href="https://nekrofr.github.io/"><img src="https://img.shields.io/badge/Website-grey?style=for-the-badge" alt="website" /></a></p>
+-->
 
 ## < \ > Main Languages 🎯:
 <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" alt="Python"/></a>
